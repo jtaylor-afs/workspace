@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: myprivaterepo.com/nginx:1.14.2
+    image: thisrepoiswrong.com/nginx:1.14.2
     ports:
     - containerPort: 80
